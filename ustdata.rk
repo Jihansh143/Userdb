@@ -70,5 +70,11 @@
         "key": "Angad1434",
         "expirydate": "08-07-2026",
         "Allowoffline": false
+},
+{
+        "device_id": "07cfb25229b105d8",
+        "key": "Hare2434",
+        "expirydate": "08-07-2026",
+        "Allowoffline": false
 }
 ]
